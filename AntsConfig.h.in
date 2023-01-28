@@ -1,0 +1,3 @@
+#define Ants_VERSION_MAJOR @Ants_VERSION_MAJOR@
+#define Ants_VERSION_MINOR @Ants_VERSION_MINOR@
+#define Ants_VERSION_PATH @Ants_VERSION_PATCH@
